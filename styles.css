@@ -10119,7 +10119,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/tikrai_galutinis_virselis.svg");
+  background-image: url("../dist/assets/img/tikrai_galutinis_virselis.svg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
